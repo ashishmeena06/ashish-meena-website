@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Replace with your real website address
+Sitemap: https://YOUR-USERNAME.github.io/ashish-meena-website/sitemap.xml
